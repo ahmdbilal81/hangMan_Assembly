@@ -25,10 +25,15 @@
 <pre><code>nasm filename.asm -o filename.com</code></pre>
         
 <li>After compilation, write file Name and hit enter</li>
-        
-
-<li>Start playing the Game! Type the random generated word in just four chances else the man will die</li>
+<p align="center">
+<br>
+<br>        
+<img src="https://github.com/ahmdbilal81/hangMan_Assembly/assets/138764971/bb2ad12a-8d6d-4c1d-8e5f-de7089f28a66" />
+</p>   
 </ol>
+<br>
+<li>Start playing the Game! Type the randomly generated word in just four chances else the man will die</li>
+
 
 <p>Feel free to explore the code, make improvements, and have fun!</p>
 
